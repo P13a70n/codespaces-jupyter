@@ -1,8 +1,10 @@
 ipywidgets==8.1.8
 matplotlib==3.8.4
-pandas==2.2.2numpy==2.3.0
+pandas==2.2.2
+numpy==2.3.0
 streamlit==1.41.1
-scikit-learn==1.5.2torch==2.13.0
+scikit-learn==1.5.2
+torch==2.13.0
 torchvision==0.28.0
 tqdm==4.66.4
 pillow>=12.1.1
